@@ -19,6 +19,7 @@
 import { NgModule } from '@angular/core';
 import { HttpModule } from '@angular/http';
 import { CommonModule } from '@angular/common';
+
 import { taco_pipes } from './src/taco-components';
 
 // Re export the files
