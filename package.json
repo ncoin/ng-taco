@@ -16,7 +16,7 @@
     "@angular/http": "^4.4.1"
   },
   "dependencies": {
-    "moment": "^2.18.1"
+    "moment": "~2.18.1"
   },
   "devDependencies": {
     "@angular/common": "^4.4.1",
