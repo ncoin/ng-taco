@@ -1,5 +1,5 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import moment from 'moment';
+import * as moment from 'moment';
 
 const dateformat = {
     'en': {full: 'YYYY-MM-DD hh:mm A', date: 'YYYY-MM-DD', time: 'hh:mm A'},
