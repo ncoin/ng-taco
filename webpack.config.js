@@ -59,7 +59,6 @@ module.exports = {
                     failOnHint: false
                 }
             }
-        }),
-        new webpack.IgnorePlugin(/\.\/locale$/)
+        })
     ]
 };
