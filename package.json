@@ -13,10 +13,10 @@
   "typings": "index.d.ts",
   "peerDependencies": {
     "@angular/core": "^4.4.1",
-    "@angular/http": "^4.4.1"
+    "@angular/http": "^4.4.1",
+    "moment": "^2.18.1"
   },
   "dependencies": {
-    "moment": "^2.18.1"
   },
   "devDependencies": {
     "@angular/common": "^4.4.1",

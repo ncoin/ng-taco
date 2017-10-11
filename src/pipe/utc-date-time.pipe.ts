@@ -14,7 +14,6 @@ const dateformat = {
     name: 'utcDateTime'
 })
 export class TacoUtcDateTimePipe implements PipeTransform {
-
     transform(value: any, locale = 'en', display = 'full'): string {
         const localeFormat = dateformat[locale];
         const format = localeFormat[display] || localeFormat['full'];
