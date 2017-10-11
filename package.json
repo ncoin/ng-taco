@@ -1,6 +1,6 @@
 {
   "name": "ng-taco",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A Taco util library for Angular 2+",
   "keywords": [
     "ng-taco",
