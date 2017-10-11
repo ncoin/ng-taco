@@ -8,6 +8,7 @@
     "moduleResolution": "node",
     "noUnusedLocals": true,
     "suppressImplicitAnyIndexErrors": true,
+    "allowSyntheticDefaultImports": true,
     "types": [
       "hammerjs",
       "jasmine",
